@@ -81,7 +81,7 @@
   git push -u origin release/v1.3.0
 
 
-🏁 Buenas prácticas generales
+## 🏁 Buenas prácticas generales
 
 - Hacer git pull antes de crear nuevas ramas.
 - Usar nombres en minúsculas, separados por guiones.
